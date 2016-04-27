@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC Hot Potato game</string>
+    <string name="action_settings">Settings</string>
+    <string name="pass_potato">Pass the potato!</string>
+    <string name="receive_potato">Receive potato</string>
+    <string name="potato_received">You have the potato!</string>
+</resources>
